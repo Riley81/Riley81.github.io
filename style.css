@@ -13,7 +13,7 @@ line-height: 1.4;
 a { color: #27699F; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-img{ border: none; padding: none; } 
+img{ border: none; padding: 6px; } 
 img a{border:none;} 
 
 ul { list-style-type: none; }
