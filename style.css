@@ -70,7 +70,7 @@ padding: 0 0 0 20px;
 .topnav {
   overflow: hidden;
   background-color: #300;
-  position: relative;
+  position: absolute;
   width: 400px;
   height: 200px;
   border: 3px solid;
