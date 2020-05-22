@@ -69,8 +69,11 @@ padding: 0 0 0 20px;
  /* Style the navigation menu */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #300;
   position: relative;
+  width: 400px;
+  height: 200px;
+  border: 3px solid;
 }
 
 /* Hide the links inside the navigation menu (except for logo/home) */
